@@ -8,6 +8,8 @@
 - 📫 How to reach me **contact@nazmiyigitefe.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/nazmiyigitefe/](https://www.linkedin.com/in/nazmiyigitefe/)
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/nazmiyigitefe35" target="blank">
@@ -17,6 +19,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazmiyigitefe" height="30" width="40" />
   </a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -42,6 +46,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nazmiyigitefe&show_icons=true&theme=cobalt&locale=en" alt="nazmiyigitefe" />
