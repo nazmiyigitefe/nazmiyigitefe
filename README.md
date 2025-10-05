@@ -3,11 +3,12 @@
 
 - 🔭 I’m currently working on [Hostlayıcı](https://hostlayici.com)
 
-- 🌱 I’m currently learning **Java**
-
 - 🔭 I’m currently working on [Oyunlayıcı](https://oyunlayici.com)
 
-- 📝 I regularly write articles on [https://nazmiyigitefe.com](https://nazmiyigitefe.com)
+- 🌱 I’m currently learning **Java**
+
+
+- 📝 I regularly write articles on [nazmiyigitefe.com](https://nazmiyigitefe.com)
 
 - 📫 How to reach me **contact@nazmiyigitefe.com**
 
