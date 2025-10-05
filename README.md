@@ -43,6 +43,7 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" 
-src="https://github-readme-stats.vercel.app/api?username=nazmiyigitefe&show_icons=true&theme=cobalt&locale=en"
- alt="nazmiyigitefe" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nazmiyigitefe&show_icons=true&theme=cobalt&locale=en" alt="nazmiyigitefe" />
+</div>
+
