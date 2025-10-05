@@ -8,7 +8,7 @@
 - 📫 How to reach me **contact@nazmiyigitefe.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/nazmiyigitefe/](https://www.linkedin.com/in/nazmiyigitefe/)
 
-
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,6 +20,7 @@
   </a>
 </p>
 
+<br />
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,6 +48,7 @@
   </a>
 </p>
 
+<br />
 
 
 <div align="center">
