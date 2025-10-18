@@ -55,3 +55,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nazmiyigitefe&show_icons=true&theme=cobalt&locale=en" alt="nazmiyigitefe" />
 </div>
 
+<br />
+<br />
+
+<div align="center">
+  [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+</div>
